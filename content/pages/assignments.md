@@ -25,14 +25,273 @@ This class will be a combination of lecture/discussion with a project studio for
 *   In-class exercises/presentations are intended to get you to work creatively with others in the class on a design concept, to share ideas, and to integrate ideas from the readings/discussion.
 *   Homework will be a larger or more in-depth version of the in-class exercise, and will also be presented in class. People can work in teams or alone.
 
-| week # | Topics | Responses |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Representing and Manipulating Relationships {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Randy Rockinson ([PDF]({{< baseurl >}}/resources/rr_week2)) {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week2)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week2)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week2)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Measuring Aspects of Relationships and Interactions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Randy Rockinson ([PDF]({{< baseurl >}}/resources/rr_week3)) {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week3)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week3)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week3)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Issues in Particular Populations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week4)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week4)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week4)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Interactions with Assistive and Therapeutic Agents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week5)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week5)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week5)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Interactions with Machine Teammates {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week6)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week6)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week6)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Interactions with Learning Companion and Tutorial Agents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week8)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week8)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Interaction with Trainers and Assistant Agents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week9)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week9)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week9)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Interactions with Trainers and Assistant Agents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week10)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week10)) {{< br >}}{{< br >}} Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week10)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Interaction with Wearable or Ambient Agents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week11)) {{< br >}}{{< br >}} Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week11)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Responses
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Representing and Manipulating Relationships
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Randy Rockinson ([PDF]({{< baseurl >}}/resources/rr_week2))
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week2))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week2))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Measuring Aspects of Relationships and Interactions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Randy Rockinson ([PDF]({{< baseurl >}}/resources/rr_week3))
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week3))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week3))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Issues in Particular Populations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week4))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week4))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interactions with Assistive and Therapeutic Agents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week5))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week5))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week5))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interactions with Machine Teammates
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week6))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week6))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week6))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interactions with Learning Companion and Tutorial Agents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week8))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week8))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interaction with Trainers and Assistant Agents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week9))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week9))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week9))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interactions with Trainers and Assistant Agents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week10))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week10))
+
+Wen Dong ([PDF]({{< baseurl >}}/resources/wd_week10))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interaction with Wearable or Ambient Agents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_week11))
+
+Stefanie Tellex ([PDF]({{< baseurl >}}/resources/st_week11))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
