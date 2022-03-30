@@ -5,6 +5,7 @@ description: This resource includes assignments created by the students on what 
   simulation theory of mind-reading.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-965-relational-machines-spring-2005/8f99c2d8a0f774eac46f97c5c0d7bef2_jg_week10.pdf
 file_type: application/pdf
+parent_uid: af7c6fa2-6acf-1f3b-13a3-263f542d206f
 resourcetype: Document
 title: jg_week10.pdf
 uid: 8f99c2d8-a0f7-74ea-c46f-97c5c0d7bef2

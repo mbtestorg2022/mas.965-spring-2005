@@ -4,6 +4,7 @@ description: This resource includes assignments created by the students on estab
   and maintaining long-term human-computer relationships.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-965-relational-machines-spring-2005/03c2c69b0cbdfe94f42c288d5ec8c12e_ab_week9.pdf
 file_type: application/pdf
+parent_uid: af7c6fa2-6acf-1f3b-13a3-263f542d206f
 resourcetype: Document
 title: ab_week9.pdf
 uid: 03c2c69b-0cbd-fe94-f42c-288d5ec8c12e

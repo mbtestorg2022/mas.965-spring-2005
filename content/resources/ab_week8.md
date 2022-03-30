@@ -6,6 +6,7 @@ description: 'This resource includes assignments created by the students on peer
   motivation to learn through failure and a state of stuck.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-965-relational-machines-spring-2005/e3d7bd8b3a029f84b5a52bdde2e64ce8_ab_week8.pdf
 file_type: application/pdf
+parent_uid: af7c6fa2-6acf-1f3b-13a3-263f542d206f
 resourcetype: Document
 title: ab_week8.pdf
 uid: e3d7bd8b-3a02-9f84-b5a5-2bdde2e64ce8
